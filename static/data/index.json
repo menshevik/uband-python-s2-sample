@@ -1,0 +1,16 @@
+[
+	{
+		"name":"zhefeng",
+		"desc":"点比较奇怪的人",
+		"badge":["资深学员", "安妮迷叔"],
+		"checkin":1024,
+		"avatar":"/static/img/heads/zhefeng-avatar.jpg"
+	},
+	{
+		"name":"小猴子不爬树",
+		"desc":"一人，一隅，如此而已",
+		"badge":["资深学员", "文艺青年"],
+		"checkin":2048,
+		"avatar":"/static/img/heads/樱木.jpg"
+	}
+]

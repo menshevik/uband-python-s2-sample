@@ -1,25 +1,61 @@
-.logo-page{
+.logo-page
+{
     padding-bottom: 14px;
     border-bottom:  solid 1px #EFEFEF;
 }
 
-.uband-logo{
-    width:80px;
-    height:33px;
-    display:block;
+.uband-logo
+{
+    width: 80px;
+    height: 33px;
+    display: block;
     margin: 0 auto;
     padding-top: 5px;
 }
 
-.uband-badge{
+.uband-user-item
+{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: solid #EFEFEF 1px;
+    border-radius: 6px;
+}
+
+.uband-user-icon
+{
+    margin: 0 auto;
+    border-radius: 50%
+}
+
+.uband-desc
+{
+    margin: 0.18em .0em;
+}
+
+.uband-badge
+{
     display: inline-block;
     padding: .15em .4em;
     min-width: 8px;
-    border-radius: 18px;
-    background-color: #F43530;
+    border-radius: 8px;
+    background-color: #FF4060;
     color: #FFFFFF;
     line-height: 1.2;
     text-align: center;
-    font-size: 12px;
+    font-size: 10px;
     vertical-align: middle;
+}
+
+.uband-user-checkin
+{
+    width: 80px;
+}
+
+.uband-user-checkin >p
+{
+    font-size: 11px;
+    text-align: right;
+    color: #828282;
 }
