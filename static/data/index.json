@@ -1,5 +1,6 @@
 [
 	{
+		"student_number":"A10552",
 		"name":"zhefeng",
 		"desc":"点比较奇怪的人",
 		"badge":["资深学员", "安妮迷叔"],
@@ -7,6 +8,7 @@
 		"avatar":"/static/img/heads/zhefeng-avatar.jpg"
 	},
 	{
+		"student_number":"A10449",
 		"name":"小猴子不爬树",
 		"desc":"一人，一隅，如此而已",
 		"badge":["资深学员", "文艺青年"],
