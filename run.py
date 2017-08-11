@@ -8,6 +8,7 @@ def read_json(filepath):
 	jsonfile = open(filepath, 'r+')
 	jsontext = jsonfile.read()
 	data = json.loads(jsontext)
+	jsonfile.close()
 	return data
 
 @app.route('/')
